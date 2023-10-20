@@ -47,6 +47,10 @@ In this step, we'll configure AWS CodeBuild to build our Python application base
 
 Fantastic! With AWS CodeBuild all set up, we're now ready to witness the magic of continuous integration in action.
 
+## Configure agent on ec2 cli
+https://docs.aws.amazon.com/codedeploy/latest/userguide/codedeploy-agent-operations-install-ubuntu.html
+
+
 ## Trigger the CI Process
 
 In this final step, we'll trigger the CI process by making a change to our GitHub repository. Let's see how it works:
